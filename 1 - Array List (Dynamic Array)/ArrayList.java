@@ -1,5 +1,3 @@
-package com.company;
-
 public class ArrayList<T> {
     private T[] array;
     private int length = 0, capacity = 2;
